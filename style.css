@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    font-style: italic;
+}
+
+#lorem{
+    color: yellow;
+    text-decoration: none;
+}
+
+p{
+    color: blue;
+    font-weight: 800;
+    text-decoration: line-through;
+}
+
+.underline-text{
+    text-decoration: underline;
+}
